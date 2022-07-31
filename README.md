@@ -16,4 +16,4 @@ In this project I've created a login menu with Node JS.
 
 <img alt="This is the login page of the project." src="./Login (Node JS)/Images/home.png">
 
-<p><strong>P. S.: This project isn't done yet. - That's due to I can't install MySQL in my machine.<strong></p>
+<strong>P. S.: This project isn't done yet. - That's due to I can't install MySQL in my machine.<strong>
